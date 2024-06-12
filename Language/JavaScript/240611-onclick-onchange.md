@@ -12,7 +12,8 @@
 // html 방식
 <button onclick="myFunction()">Click me</button>
 
-// react 방식<button onClick={myFunction}>Click me</button>
+// react 방식
+<button onClick={myFunction}>Click me</button>
 ```
 
 ### **`onchange`**
